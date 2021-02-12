@@ -3,14 +3,12 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        nlp: 5
-        natural language processing: 5
-        pre-trained model: 3
-        T5: 5
-        mT5: 5
-        few-shot: 3
-        NER: 5
-        named entity recognition: 5
+        BERT: 1
+        pre-trained model: 1
+        T5: 1
+        mT5: 1
+        few-shot: 1
+        named entity recognition: 1
      
 # 通知の閾値
 score_threshold: 0
