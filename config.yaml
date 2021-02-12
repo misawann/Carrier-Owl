@@ -3,9 +3,14 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
-
+        nlp: 5
+        natural language processing: 5
+        pre-trained model: 3
+        T5: 5
+        mT5: 5
+        few-shot: 3
+        NER: 5
+        named entity recognition: 5
+     
 # 通知の閾値
 score_threshold: 0
