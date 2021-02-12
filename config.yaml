@@ -3,11 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        BERT: 1
         pre-trained model: 1
         T5: 1
         mT5: 1
-        few-shot: 1
+        natural language processing: 1
         named entity recognition: 1
      
 # 通知の閾値
