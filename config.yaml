@@ -9,6 +9,10 @@ keywords:
         natural language processing: 1
         named entity recognition: 1
         machine learning: 1
+        transfer learaning: 1
+        fine tuning: 1
+        fine-tuning: 1
+        pre-training: 1
      
 # 通知の閾値
 score_threshold: 0
