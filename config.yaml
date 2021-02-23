@@ -13,6 +13,10 @@ keywords:
         fine tuning: 1
         fine-tuning: 1
         pre-training: 1
+        multi-task learning: 1
+        closed domain question answering: 1
+        deep learning: 1
+        BERT: 1
      
 # 通知の閾値
 score_threshold: 0
