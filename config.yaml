@@ -19,5 +19,6 @@ keywords:
         BERT: 1
         transformer: 1
         language model: 1
+        calibration: 1
 # 通知の閾値
 score_threshold: 0
