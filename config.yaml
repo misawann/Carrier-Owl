@@ -5,20 +5,19 @@ subject: 'cat:cs.*'
 keywords:
         pre-trained model: 1
         T5: 1
+        QA : 1
+        summarization: 1
         mT5: 1
         natural language processing: 1
-        named entity recognition: 1
-        machine learning: 1
         transfer learaning: 1
         fine tuning: 1
         fine-tuning: 1
         pre-training: 1
-        multi-task learning: 1
-        closed domain question answering: 1
+        question answering: 1
         deep learning: 1
         BERT: 1
         transformer: 1
         language model: 1
         calibration: 1
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
